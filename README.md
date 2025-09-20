@@ -4,11 +4,10 @@ This repository investigates molecular features underlying the **comorbidity bet
 The analysis focuses on **intrinsically disordered regions (IDRs)**, **short linear motifs (SLiMs)**, and **genetic variants** in disease-associated proteins.
 
 ## Project Structure
-- `Commorbidity_PD_AD.ipynb` → Main Jupyter Notebook with the full analysis workflow.
-- `data/`  
-  - `VDA_Disgenet_Alzheimer.tsv` → Gene–disease associations for AD.  
-  - `VDA_Disgenet_Parkinson.tsv` → Gene–disease associations for PD.  
-  - `human_proteome.tsv` → Reference dataset for all human proteins.  
+- `Commorbidity_PD_AD.ipynb` → Main Jupyter Notebook with the full analysis workflow.  
+- `VDA_Disgenet_Alzheimer.tsv` → Gene–disease associations for AD.  
+- `VDA_Disgenet_Parkinson.tsv` → Gene–disease associations for PD.  
+- `human_proteome.tsv` → Reference dataset for all human proteins.  
 
 ## 🔧 Requirements
 - Python 3.x  
